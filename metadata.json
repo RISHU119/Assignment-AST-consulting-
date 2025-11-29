@@ -1,0 +1,5 @@
+{
+  "name": "LiveNews React",
+  "description": "A responsive, feature-rich news portal clone inspired by LiveHindustan, built with React, Tailwind CSS, and Gemini AI for content summarization.",
+  "requestFramePermissions": []
+}
